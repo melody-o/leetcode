@@ -41,5 +41,3 @@ class Solution:
             commonChar.extend([key] * value)
 
         return commonChar
-
-//
